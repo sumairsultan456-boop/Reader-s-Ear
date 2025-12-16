@@ -1,0 +1,5 @@
+{
+  "name": "Reader's Ear",
+  "description": "An intuitive text-to-speech reader that converts text and images into spoken audio with advanced playback controls.",
+  "requestFramePermissions": []
+}
